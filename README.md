@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nexusrae
+- 👋 Hi, I’m @ziibii
 - 👀 I’m interested in technical writing including API documentation
 - 🌱 I’m currently learning how to program in c++ and how to write software documentation
 - 💞️ I’m looking to collaborate on documentation for software for experience
